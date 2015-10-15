@@ -11,7 +11,7 @@ def libVersionName = "1.0.0.0-"
 // so siteUrl, gitUrl and than group and than version have to be set
 def siteUrl = 'https://github.com/shareme/GWSAction'
 def gitUrl = 'https://github.com/shareme/GWSAction.git'
-group = "com.github.shareme.GWSAction"
+group = "com.github.shareme"
 version = libVersionName
 
 
